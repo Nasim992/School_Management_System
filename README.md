@@ -1,4 +1,4 @@
-# School_Management_System Using PHP.
+# School_Management_System Using PHP(25-09-2019  to 03-12-2019)
 <hr>
 This Project is about the Shelter Global School Project.Here ,the I use Html, CSS, JavaScript ,PHP ,MySql ,JQuery. .Before Enter to the project at first insert the database into the sql database.Database file is given inside the project.
 
