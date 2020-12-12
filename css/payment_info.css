@@ -1,0 +1,87 @@
+
+*{box-sizing: border-box;}
+body{
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+  font-size:10px;
+  font-weight:500;
+}
+form{
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 10px 10px;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="number"],
+textarea{
+  background: rgba(173, 221, 171, 0.384);
+  border: none;
+  font-size: 10px;
+  height: auto;
+  margin: 0;
+  outline: 0;
+  padding: 20px;
+  width: 100%;
+  background-color: #ebe6e7;
+  color: #045716;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  margin-bottom: 30px;
+}
+
+input:focus, textarea:focus{
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  border: 1px solid rgba(81, 203, 238, 1);
+}
+
+fieldset{
+  margin-bottom: 30px;
+  border: none;
+}
+legend{
+  font-size: 20px;
+  text-align: center;
+  font-weight: 800;
+  color: #b9ebaf;
+  display: block;
+  margin-bottom: 8px;
+}
+
+button{
+  padding: 19px 39px 18px 39px;
+  color: #FFF;
+  background-color: #044213;
+  font-size: 20px;
+  text-align: center;
+  font-style: courier;
+  border-radius: 5px;
+  width: 100%;
+  border: 1px solid #f1f1f1;
+  border-width: 1px 1px 3px;
+  box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.1) inset;
+  margin-bottom: 10px;
+}
+
+label{
+  font-size: 16px;
+}
+
+table th{
+
+  border :1px solid black;
+  padding:0px;
+  border-collapse: collapse;
+}
+table tr td
+{
+  border:1px solid black ;
+
+}
+.buttonss
+{
+  color:white;
+  background-color:green;
+}

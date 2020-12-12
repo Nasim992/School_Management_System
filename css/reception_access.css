@@ -1,0 +1,13 @@
+h2
+{
+  color:black;
+  text-align:center;
+  font-size: 25px;
+  font-weight: 400;
+  text-decoration: none;
+  transition: 1s;
+}
+h2:hover
+{
+  color:green;
+}
